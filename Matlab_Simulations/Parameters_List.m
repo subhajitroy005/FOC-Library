@@ -1,5 +1,5 @@
 %% Machine Parameters
-pole_pair_number    = 1;        % Number of pole pairs
+pole_pair_number    = 2;        % Number of pole pairs
 Rs                  = 0.1;      % Stator resistance per phase           [Ohm]
 Ls                  = 1e-4;     % Stator self-inductance per phase, Ls  [H]
 Ms                  = 1e-5;     % Stator mutual inductance, Ms          [H]
